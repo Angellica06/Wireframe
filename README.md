@@ -1,5 +1,5 @@
 # Wireframe
-Wireframe da tela de login e cadastro usando o figma.
+Criação de wireframe de média fidelidade da tela de login e cadastro usando o figma.
 
 
 
